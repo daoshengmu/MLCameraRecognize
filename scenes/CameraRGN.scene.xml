@@ -1,0 +1,4 @@
+<ObjectModel name="CameraRGN" version="1">
+    <TransformNode/>
+    <UiButton gravityWellRoundness="0.000000" gravityWellSize="0.000000, 0.000000" gravityWellSnap="ClosestEdge" name="uiButton1" scale="20,20,20" size="0.040000, 0.040000" text="Button" textSize="0.016700"/>
+</ObjectModel>

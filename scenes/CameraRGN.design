@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<design:rootNode xmlns:design="http://www.magicleap.com/uidesigner/rcp/document/design" name="root" nodeTypeId="lumin.root" modelId="lumin" version="1.11.4">
+  <property id="name" value="root"/>
+  <property id="sceneName" value="CameraRGN"/>
+  <node name="uiButton1" nodeTypeId="lumin.ui.button">
+    <property id="gravityWellProperties">
+      <property id="boundaryShape">
+        <property id="size"/>
+        <property id="offset"/>
+      </property>
+    </property>
+    <property id="iconSize"/>
+    <property id="name" value="uiButton1"/>
+    <property id="position"/>
+    <property id="rotation"/>
+    <property id="scale">
+      <property id="x" value="20.0"/>
+      <property id="y" value="20.0"/>
+      <property id="z" value="20.0"/>
+    </property>
+  </node>
+</design:rootNode>

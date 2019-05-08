@@ -1,0 +1,51 @@
+{
+  "intermediate-storage": {
+    "path": "cache",
+    "kind": "in-tree"
+  },
+  "project-schema-version": 4,
+  "types": {
+    "assets": [
+      "lap/types/asset/audio",
+      "lap/types/asset/material",
+      "lap/types/asset/model",
+      "lap/types/asset/outline-font",
+      "lap/types/asset/texture"
+    ],
+    "files": [
+      "lap/types/file/bmp",
+      "lap/types/file/dds",
+      "lap/types/file/fbx",
+      "lap/types/file/files",
+      "lap/types/file/gltf",
+      "lap/types/file/jpg",
+      "lap/types/file/kmat",
+      "lap/types/file/mp3",
+      "lap/types/file/ogg",
+      "lap/types/file/otf",
+      "lap/types/file/pcm",
+      "lap/types/file/png",
+      "lap/types/file/tga",
+      "lap/types/file/tiff",
+      "lap/types/file/wav"
+    ]
+  },
+  "checkpoint-hash": "e711ee29e780386fcd92eb3f87150c97b5a9dece95d804fd8d60e17f07c267caf29159b2973e21721e3bfaee9c8bcd41a909a9020e833c252326ded25024a97f",
+  "templates": [
+    "lap/template/converted_texture_from_bmp",
+    "lap/template/converted_texture_from_tga",
+    "lap/template/converted_texture_from_tiff",
+    "lap/template/passthru_audio_from_mp3",
+    "lap/template/passthru_audio_from_ogg",
+    "lap/template/passthru_audio_from_pcm",
+    "lap/template/passthru_audio_from_wav",
+    "lap/template/passthru_material_from_kmat",
+    "lap/template/passthru_model_from_fbx",
+    "lap/template/passthru_model_from_gltf",
+    "lap/template/passthru_outline_font_from_otf",
+    "lap/template/passthru_texture_from_dds",
+    "lap/template/passthru_texture_from_jpg",
+    "lap/template/passthru_texture_from_png"
+  ],
+  "nodes": {}
+}

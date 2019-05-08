@@ -1,0 +1,3 @@
+DATAS = \
+	scenes/CameraRGN.scene.res.xml : assets/scenes/CameraRGN.scene.res.xml \
+	scenes/CameraRGN.scene.xml : assets/scenes/CameraRGN.scene.xml

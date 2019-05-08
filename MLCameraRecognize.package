@@ -1,0 +1,6 @@
+MLCERT = "C:\Users\daoshengmu\MagicLeap\facenetwin.cert"
+REFS = MLCameraRecognize
+USES = \
+	pipeline/cache/AssetManifest \
+	scenes
+
